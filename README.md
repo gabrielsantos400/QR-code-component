@@ -21,7 +21,7 @@ Meu desafio é construir este componente de código QR e fazê-lo parecer o mais
 - [Autor](#autor)
 
 
-## Visão geral
+## 👁‍🗨 Visão geral
 
 ### Captura de tela
 
@@ -31,7 +31,7 @@ Meu desafio é construir este componente de código QR e fazê-lo parecer o mais
 
 - URL da solução: https://gabrielsantos400.github.io/QR-code-component/
 
-## Meu processo
+## 👨‍💻 Meu processo
 
 ### Construído com
 
@@ -52,7 +52,7 @@ Meus principais aprendizado foi aplicar HTML e CSS básico para criar um site/co
 - Criação de Sites Responsivos 
 
 
-## Autor
+## 🗣 Autor
 
 - Instagram - [@gabrielsantos.dev](https://www.instagram.com/gabrielsantos.dev)
 - Mentor de frontend - [@thiagomunhozmedeiros](https://www.instagram.com/thiagomunhozmedeiros/)
