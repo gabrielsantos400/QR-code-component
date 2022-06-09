@@ -27,7 +27,7 @@ Meu desafio é construir este componente de código QR e fazê-lo parecer o mais
 
 ![Imagem do Projeto](./images/screenshot.png)
 
-### Links
+### Links 
 
 - URL da solução: https://gabrielsantos400.github.io/QR-code-component/
 
